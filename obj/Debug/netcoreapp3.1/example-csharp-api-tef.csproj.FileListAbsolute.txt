@@ -1,0 +1,15 @@
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\bin\Debug\netcoreapp3.1\example-csharp-api-tef.exe
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\bin\Debug\netcoreapp3.1\example-csharp-api-tef.deps.json
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\bin\Debug\netcoreapp3.1\example-csharp-api-tef.runtimeconfig.json
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\bin\Debug\netcoreapp3.1\example-csharp-api-tef.runtimeconfig.dev.json
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\bin\Debug\netcoreapp3.1\example-csharp-api-tef.dll
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\bin\Debug\netcoreapp3.1\example-csharp-api-tef.pdb
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.csprojAssemblyReference.cache
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.AssemblyInfoInputs.cache
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.AssemblyInfo.cs
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.csproj.CoreCompileInputs.cache
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.csproj.CopyComplete
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.dll
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.pdb
+C:\Users\GustavoAntonio\Documents\Desenvolvimento\example-csharp-api-tef\obj\Debug\netcoreapp3.1\example-csharp-api-tef.genruntimeconfig.cache
