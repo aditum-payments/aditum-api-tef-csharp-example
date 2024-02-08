@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lKMmepzVhJ7BRqh92TbO26h97Pa1BOvWHI3PEunCmYabPX0CX3C17bn0mSblS0OhVkmV2EKVJ6e+aJ5ffFeU9g==",
+  "dgSpecHash": "DJ8EEVakUl6s9baOhI8nxOIRq0DKhpnbCdxxSSV0la5vfOFOG95izKVxYCXCaKfrOdIAQ6I4NaloRbctHB/tNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GustavoAntonio\\Documents\\Desenvolvimento\\example-csharp-api-tef\\example-csharp-api-tef.csproj",
+  "projectFilePath": "C:\\Users\\lucas.trindade\\projects\\aditum-api-tef-csharp-example\\example-csharp-api-tef.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\GustavoAntonio\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\lucas.trindade\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lucas.trindade\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
